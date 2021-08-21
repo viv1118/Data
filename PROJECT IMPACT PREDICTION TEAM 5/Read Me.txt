@@ -25,5 +25,13 @@ NOTE- How to run this
 2.Type 'streamlit run application2.py'
 3.It will run successfully
 (if not, open application2.py and just change the path of images according to location)
+ step by step guidline to built any project using Streamlit
+ 1. build the model using jupyter notebook in anaconda navigator
+ 2. then create pickle file in same file where we have build the model of dataset
+ 3. go to C drive- double click- user- double click- name it shows-double click- search here pickle file what file name you kept of pickle file-shift + right click of pickle file-then select copy as path-then paste it application2.py file.
+ 4. same procedure we have to follow for image file copy as path and paste it  in  application2.py
+ 5. go to anaconda prompt and type  there streamlit run application2.py press enter  then IP address generated. copy the IP address and paste it in any browser (Chrome , firefox, IE, Opera etc) press enter wait some time so the output display in your browser screen.
+ 
+ Thanking You 
 
           
